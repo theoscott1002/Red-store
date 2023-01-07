@@ -74,6 +74,12 @@ p{25px;
 .btn:hover{
     background: #563434;
 }
+.link{
+	color: #ff523b;
+}
+.link:hover{
+	color: black;
+}
 .header{
     background: radial-gradient(#fff,#ffd6d6);
 }
