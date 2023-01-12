@@ -74,6 +74,12 @@ p{25px;
 .btn:hover{
     background: #563434;
 }
+.link1{
+	color: black;
+}
+.link1:hover{
+	color: #ff523b;
+}
 .link{
 	color: #ff523b;
 }
